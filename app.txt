@@ -1,1 +1,3 @@
 Version initiale de l'application.
+new step 
+Ajout de la fonctionnalité 1.
